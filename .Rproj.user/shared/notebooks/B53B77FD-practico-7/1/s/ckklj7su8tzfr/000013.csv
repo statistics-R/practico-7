@@ -1,0 +1,6 @@
+"0","#Creamos una nueva variable con 3. Info y com. como categoría de referencia
+data$rama_info = ref_lvl(data$rama, ""3. Info. y com."")
+"
+"2","Error in UseMethod(""select"") : 
+  no applicable method for 'select' applied to an object of class ""factor""
+"
